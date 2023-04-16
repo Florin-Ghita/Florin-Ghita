@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florin Ghita</h1>
 <h3 align="center">As a 3D printing enthusiast, I was drawn to the intricacies of computer programming. This curiosity led me to embark on a journey of self-learning and developing my skills in programming languages such as Java and Python. Through my passion and dedication, I aim to become a proficient software developer.</h3>
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/florin-ghita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florin ghita" height="30" width="40" /></a>
