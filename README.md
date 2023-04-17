@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florin Ghita</h1>
-
+ 
+ 
 <!-- ![github_cover_banner](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC) -->
 
 <h3 align="center">As a 3D printing enthusiast, I was drawn to the intricacies of computer programming. This curiosity led me to embark on a journey of self-learning and developing my skills in programming languages such as Java and Python. Through my passion and dedication, I aim to become a proficient software developer.</h3>
