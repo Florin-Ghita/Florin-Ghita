@@ -29,5 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=florin-ghita&" alt="florin-ghita" /></p>
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Florin-Ghita&&style=flat-square" align="center" />
 </div>  
