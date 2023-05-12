@@ -3,7 +3,7 @@
  
 <!-- ![github_cover_banner](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC) -->
 
-<h3 align="center">As a 3D printing specialist, I was drawn to the intricacies of computer programming. This curiosity led me to embark on a journey of self-learning and developing my skills in programming languages such as Java and Python. Through my passion and dedication, I aim to become a proficient software developer.</h3>
+<h3 align="center">As a 3D printing specialist, I was drawn to the intricacies of computer programming. This curiosity led me to embark on a journey of self-learning and developing my skills in programming languages such as Java and Python. Through my passion and dedication, I aim to become a proficient software developer.</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
